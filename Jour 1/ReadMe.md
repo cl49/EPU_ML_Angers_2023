@@ -2,17 +2,18 @@
 
 ## Programme de la matinée (Pause 10h30-11h00) :
 
-  ### 1 seule variable (analyse univariée) : 
+  ### Rappels de statistiques
+  #### 1 seule variable (analyse univariée) : 
     Quelles statistiques ?
     Lois de distribution
     Quelques représentations graphiques possibles
     Lien avec la maîtrise statistique des procédés 
-  ### 2 variables (analyse bivariée) : 
+  #### 2 variables (analyse bivariée) : 
     Coefficients de corrélation :
     Comment les calculer et quelles sont les différences entre les coefficients de corrélation de Pearson, Spearman, Kendall ?  
     L’inférence statistique : tests et « p-valeur » 
     Quelques représentations graphiques possibles 
-  ### Analyses descriptives multivariées :
+  #### Analyses descriptives multivariées :
     Quelles méthodes en fonction du contexte ?
     Exemple d’une ACP et classification hiérarchique ascendante
 
