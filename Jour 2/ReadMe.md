@@ -9,7 +9,7 @@
     Interprétation des résultats, 
     Validation et généralisation.
 
-Data : Data link\
+Lien d'accès aux données : https://drive.google.com/drive/folders/1YjM4PhM3moBbyOLFUbM5UCVDMuwLrUh3 .\
 Au lieu de télécharger les données, faites un clic droit dessus et choisissez l'option de sauvegarde dans mon Google Drive (ou de copie dans mon Drive)
 
 ## Déjeuner : 12h30-13h45
