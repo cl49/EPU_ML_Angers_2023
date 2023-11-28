@@ -1,6 +1,6 @@
 # EPU Machine Learning - Angers, 29/11 au 01/12 2023
 
-Vous trouverez ici les codes utilisés dans cette formation ainsi que les suppors pédagogiques.\
+Vous trouverez ici les codes utilisés dans cette formation ainsi que les supports pédagogiques.\
 Le logiciel Fidji est utilisé, vous pouvez le télécharger ici (https://fiji.sc)
 
 ## Important : 
