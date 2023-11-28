@@ -9,6 +9,9 @@
     Interprétation des résultats, 
     Validation et généralisation.
 
+Data : Data link\
+Au lieu de télécharger les données, faites un clic droit dessus et choisissez l'option de sauvegarde dans mon Google Drive (ou de copie dans mon Drive)
+
 ## Déjeuner : 12h30-13h45
 
 ## Programme de l'après-midi (Pause 15h45-16h15) :
