@@ -3,11 +3,11 @@
 ## Programme de la matinée (Pause 10h30-11h00) :
 
 ### Travail dirigé :
-Prédiction des résultats des contrôles de qualité prétraitements de plans prostate VMAT au TrueBeam (Varian) par apprentissage supervisé automatique basé sur les métriques de complexité de plan :
-  Préparation d’un jeu de données dont acquisition des données, sécurisation, exploration, nettoyage, validation de la problématique,
-  Entraînement des modèles, 
-  Interprétation des résultats, 
-  Validation et généralisation.
+  #### Prédiction des résultats des contrôles de qualité prétraitements de plans prostate VMAT au TrueBeam (Varian) par apprentissage supervisé automatique basé sur les métriques de complexité de plan
+    Préparation d’un jeu de données dont acquisition des données, sécurisation, exploration, nettoyage, validation de la problématique,
+    Entraînement des modèles, 
+    Interprétation des résultats, 
+    Validation et généralisation.
 
 ## Déjeuner : 12h30-13h45
 
