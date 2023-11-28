@@ -1,6 +1,6 @@
 # Jour 1
 
-## Programme du matin (Pause 10h30-11h00) :
+## Programme de la matinée (Pause 10h30-11h00) :
 
   ### 1 seule variable (analyse univariée) : 
     Quelles statistiques ?
@@ -15,6 +15,8 @@
   ### Analyses descriptives multivariées :
     Quelles méthodes en fonction du contexte ?
     Exemple d’une ACP et classification hiérarchique ascendante
+
+## DEJEUNER : 12h30-13h45
 
 ## Programme de l'après-midi (Pause 15h45-16h15) :
 
