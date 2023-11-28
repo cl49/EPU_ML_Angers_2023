@@ -1,4 +1,4 @@
-# Jour 2
+# Jour 2 - Début à 8h00
 
 ## Programme de la matinée (Pause 10h30-11h00) :
 
