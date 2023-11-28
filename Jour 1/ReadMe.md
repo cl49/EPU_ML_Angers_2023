@@ -22,10 +22,10 @@
 ## Programme de l'après-midi (Pause 15h45-16h15) :
 
   ### Bases fondamentales de l'apprentissage machine
-    Qu'est-ce que le Machine Learning
+    Qu'est-ce que le Machine Learning ?
     Pourquoi utiliser le machine Learning ?
     Les différents types de Machine Learning
     Eléments méthododlogiques : quelques algorithmes, démonstration avec le logiciel Fiji, Courbes ROC, budget de données... 
-    Métriques 
+    Estimations/Métriques 
 
 ## FIN 18h15
