@@ -2,19 +2,19 @@
 
 ## Programme de la matinée (Pause 10h30-11h00) :
   
-  ### Suite de la fin de journée précédente : 
-    Analyse des résultats de lexemple dapprentissage profond
+  ### Bases fondamentales de l'apprentissage profond (suite) : 
+    Analyse des résultats de l'exemple d'apprentissage profond
     Métriques et évaluation
     Méthode récente de ségmentation : Segment Anything Model (SAM)
 
   ### REX de l'Institut de Cancérologie de l'Ouest 
 
-## DEJEUNER : 12h30-13h45
+## Déjeuner : 12h30-13h45
 
-## Programme de l'après-midi :
+## Programme de l'après-midi (13h45-15h45) :
 
-  ### Applications et logiciels utilisant lapprentissage profond en physique médicale
+  ### Applications et logiciels utilisant l'apprentissage profond en physique médicale
 
-  ### Conclusion de la formation avec emise des attestations
+  ### Conclusion de la formation avec remise des attestations de présence
 
-## FIN 15h45
+## Fin de l'EPU 15h45
