@@ -2,25 +2,19 @@
 
 ## Programme de la matinée (Pause 10h30-11h00) :
 
-### Travail dirigé :
-  #### Prédiction des résultats des contrôles de qualité prétraitements de plans prostate VMAT au TrueBeam (Varian) par apprentissage supervisé automatique basé sur les métriques de complexité de plan
-    Préparation d’un jeu de données dont acquisition des données, sécurisation, exploration, nettoyage, validation de la problématique,
-    Entraînement des modèles, 
-    Interprétation des résultats, 
-    Validation et généralisation.
+### Bases fondamentales de l'apprentissage profond (suite) :
+    Analyse des résultats de l'exemple apprentissage profond
+    Métriques et évaluation 
+    Méthode récente de ségmentation : Segment Anything Model (SAM)
 
-Data : Data link\
-Au lieu de télécharger les données, faites un clic droit dessus et choisissez l'option de sauvegarde dans mon Google Drive (ou de copie dans mon Drive)
+### REX de l'Institut de Cancérologie de l'Ouest
 
 ## Déjeuner : 12h30-13h45
 
 ## Programme de l'après-midi (13h45-15h45) :
 
-  ### Bases fondamentales de l'apprentissage profond :
-    Principe des réseaux de neurones
-    Architectures
-    Lancement d'un exemple d'apprentissage
+  ### Applications et logiciels utilisant l'apprentissage profond en physique médicale
 
   ### Conclusion de l'EPU et remise des attestations de présence à 15h15
   
-## Fin de lEPU à 15h45
+## Fin de l'EPU à 15h45
