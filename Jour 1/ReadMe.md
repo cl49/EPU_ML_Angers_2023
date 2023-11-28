@@ -23,3 +23,5 @@
   ### Bases fondamentales de l'apprentissage machine
       Métriques 
       Eléments méthododlogiques
+
+## FIN 18h15
