@@ -1,4 +1,4 @@
-# Jour 3
+# Jour 3 - Début 8h30
 
 ## Programme de la matinée (Pause 10h30-11h00) :
   
