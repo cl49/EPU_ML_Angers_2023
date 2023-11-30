@@ -12,7 +12,7 @@ Vous pouvez exécuter et modifier le code directement à partir de là, mais pou
 
 Dans l'environnement Colab, vous pouvez utiliser des GPU pour exécuter votre code. Pour cela, allez dans Modifier -> Paramètres du notebook -> Accélérateur matériel -> GPU. Veuillez   noter que les sessions sont limitées dans le temps. Cela signifie que toutes les 2 heures, vous serez déconnecté de votre session en cours. Vous pouvez le redémarrer, mais toutes vos données et variables locales seront perdues, ce qui signifie que vous devrez charger les données et exécuter à nouveau toutes les cellules Notebook.
 
-## Lien internet questionnaire de satisfaction A COMPLETER A LA FIN DE L'EPU :
+## Liens internet questionnaires de satisfaction :
 \ Formulaire satisfaction : Mercredi et Jeudi 29-30/11/2023
 \
 https://docs.google.com/forms/d/e/1FAIpQLSftByMxpOZcABgUjAe6L82211Lpgz_nVJZzbsQ44q2UIrl6qw/viewform?usp=pp_url&entry.1747016377=3&entry.1417579259=3&entry.681942677=3&entry.348279232=3&entry.1317053862=3&entry.305553560=3&entry.1321330163=3&entry.2002552410=3&entry.1448500537=3&entry.823370410=3&entry.1972610035=3&entry.541401972=3&entry.1012357992=3&entry.574017041=3&entry.1409335450=3&entry.91385915=3&entry.1580494356=3&entry.1536894318=3&entry.962449243=3&entry.885016907=3&entry.1494398579=3&entry.1956645504=3
